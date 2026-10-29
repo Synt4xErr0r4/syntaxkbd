@@ -1,0 +1,12 @@
+BasedOnStyle: LLVM
+IndentWidth: 4
+AccessModifierOffset: -4
+ColumnLimit: 100
+AllowShortFunctionsOnASingleLine: Empty
+SpaceAfterCStyleCast: true
+AllowShortCompoundRequirementOnASingleLine: true
+AllowShortEnumsOnASingleLine: false
+AlwaysBreakTemplateDeclarations: true
+IndentRequiresClause: true
+IndentPPDirectives: AfterHash
+PPIndentWidth: 1

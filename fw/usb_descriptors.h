@@ -1,0 +1,8 @@
+#pragma once
+
+enum {
+    REPORT_ID_HID_6KRO = 1,
+    REPORT_ID_HID_NKRO,
+    REPORT_ID_HID_CONSUMER,
+    REPORT_ID_COUNT,
+};
