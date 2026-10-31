@@ -24,7 +24,7 @@ The key placement for the PCB was done with a KiCAD extension (don't remember wh
 The keyboard is split into two PCBs: one for the keys and LEDs, and one for the controller.
 
 Both PCBs were manufactured by JLCPCB.
-I assembled the keyboard PCB (2-layer, HASL) myself, but I let JLC assemble the controller PCB (4-layer, ENIG) because of the fine-pitched pins of the RP2354B.
+I assembled the keyboard PCB (2-layer) myself, but I let JLC assemble the controller PCB (4-layer) because of the fine-pitched pins of the RP2354B.
 
 ![top of the keyboard PCB](img/pcb_top.png)
 ![bottom of the keyboard PCB](img/pcb_bottom.png)
